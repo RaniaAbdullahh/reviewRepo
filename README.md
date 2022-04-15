@@ -17,10 +17,9 @@ hello its me Ahmad I am new developer in this company
 
 
 
-| Syntax | Description |
+| type | image |
 | ----------- | ----------- |
-| Header | Title |
 | Persian | ![](./presian.jpg) |
-| Paragraph | ![]() |
+| British | ![](./british.jfif) |
 | Paragraph | ![]()|
 | Paragraph |![]()|
