@@ -21,5 +21,5 @@ hello its me Ahmad I am new developer in this company
 | ----------- | ----------- |
 | Persian | ![](./presian.jpg) |
 | British | ![](./british.jfif) |
-| Paragraph | ![]()|
+| Savannah | ![](./savannah.jfif)|
 | Paragraph |![]()|
