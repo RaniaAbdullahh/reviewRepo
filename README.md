@@ -13,3 +13,14 @@ hello its me Rania
 
 
 hello its me Ahmad I am new developer in this company 
+![my image](./dog.jfif)
+
+
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Persian | ![](./presian.jpg) |
+| Paragraph | ![]() |
+| Paragraph | ![]()|
+| Paragraph |![]()|
